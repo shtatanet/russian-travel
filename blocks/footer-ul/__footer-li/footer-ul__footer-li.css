@@ -1,0 +1,16 @@
+.footer-ul__footer-li {
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 18px;
+    color: #FFF;
+}
+
+@media screen and (max-width: 767px) {
+  .footer-ul__footer-li {
+    margin: 0 auto;
+    font-size: 24px;
+    line-height: 24px;
+    margin-top: 32px;
+    margin-left: 1px;
+    }
+}

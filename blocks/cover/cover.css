@@ -1,21 +1,23 @@
 .cover {
-  display: flex;
-  max-width: 1184px;
-  margin: 0 auto;
-  margin-top: 92px;
-  padding: 0;
+   display: flex;
+   max-width: 1184px;
+   margin: 0 auto;
+   margin-top: 92px;
+   padding: 0;
    
 }
 
 @media screen and (max-width: 1279px) {
     .cover {
-      min-width: 1024px;
+      margin: 0 auto;
+      max-width: 1024px;
     
     }
 }
   
 @media screen and (max-width: 1023px) {
     .cover {
+      margin: 0 auto;
       min-width: 768px;
       margin-top: 88px;
     }

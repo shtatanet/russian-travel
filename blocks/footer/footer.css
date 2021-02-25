@@ -3,8 +3,8 @@
     margin: 0 auto;
     justify-content: space-between;
     min-width: 1184px;
-    min-height: 18px;
     flex-direction: row;
+    margin-top: 92px;
     margin-bottom: 24px;
 }
 
@@ -25,6 +25,7 @@
 @media screen and (max-width: 767px) {
     .footer {
       flex-direction: column;
-      max-width: 320px;
+      max-width: 186px;
+      min-height: 310px;
     }
 }    

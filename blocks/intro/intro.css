@@ -4,6 +4,7 @@
     margin: 0 auto;
     margin-top: 92px;
     min-width: calc(100% - 2*148px);
+    height: fit-content;
     color: #FFF;
 }
 
