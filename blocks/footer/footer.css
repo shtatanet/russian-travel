@@ -6,7 +6,6 @@
     flex-direction: row;
     margin-top: 92px;
     margin-bottom: 24px;
-    bo
 }
 
 
@@ -25,7 +24,7 @@
   
 @media screen and (max-width: 767px) {
     .footer {
-      flex-direction: column;
+      flex-direction: column;  
       max-width: 186px;
       min-height: 310px;
     }
