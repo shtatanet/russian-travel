@@ -4,6 +4,7 @@
    grid-template-columns: repeat(5, max-content);
    gap: 19px;
    grid-auto-flow: dense;
+   border: 1px solid rebeccapurple;
 }
 
 @media screen and (max-width: 767px) {
