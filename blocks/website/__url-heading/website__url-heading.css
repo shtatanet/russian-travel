@@ -1,15 +1,16 @@
 .website__url-heading {
-    margin: 0;
-    max-width: 456px;
-    font-weight: 400px;
-    font-style: normal;
-    font-size: 12px;
-    color: #FFF;
-    opacity: 0.5;
+  margin: 0;
+  max-width: 456px;
+  font-weight: 400;
+  font-style: normal;
+  font-size: 12px;
+  color: #AAAAAA;
+  text-transform: uppercase;
+   letter-spacing: .2em;
 }
 
 @media screen and (max-width: 767px) {
-    .website__url-heading{
-      margin-left: 16px;
-    }
+  .website__url-heading{
+    margin-left: 16px;
+  }
 }

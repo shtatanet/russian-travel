@@ -1,7 +1,9 @@
 .lead { 
-    margin: 0 auto;
-    min-width: calc(100% - 2*148px);
-    margin-top: 56px;
+  display: flex;
+  flex-direction: column;
+  margin: 0 auto;
+  min-width: calc(100% - 2*148px);
+  margin-top: 56px;
 }
 
 @media screen and (max-width: 1279px) {

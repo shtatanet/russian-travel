@@ -1,22 +1,24 @@
 .intro__list {
-    display: flex;
-    flex-direction: column;
-    width: 690px;
-    margin-top: 33px;
-    font-size: 12px;
-    line-height: 18px;
+  margin: 0;
+  display: flex;
+  flex-direction: column;
+  width: fit-content;
+  margin-left: -40px;
+  margin-top: 33px;
+  font-size: 12px;
+  line-height: 18px;
+  list-style-type: none;
 }
 
   
 @media screen and (max-width: 1023px) {
-    .intro__list {
-      min-width: 720px;
-    }
+  .intro__list {
+    min-width: 720px;
+  }
 }
   
 @media screen and (max-width: 767px) {
-    .intro__list {
-      min-width: 288px;
-      margin-left: 16px;
-    }
+  .intro__list {
+    min-width: 288px;
+  }
 }
