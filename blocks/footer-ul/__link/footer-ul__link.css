@@ -1,8 +1,12 @@
 .footer-ul__link {
   text-decoration: none;
   color: white;
+  font-size: 16px;
+  line-height: 18px;
+  font-weight: 400;
 }
 
 .footer-ul__link:hover {
   color: #DADADA;
 }
+
