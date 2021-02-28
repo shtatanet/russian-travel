@@ -9,9 +9,3 @@
   line-height: 18px;
   list-style-type: none;
 }
-
-@media screen and (max-width: 767px) {
-  .intro__list {
-    margin-left:16px;
-  }
-}
