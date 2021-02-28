@@ -1,0 +1,8 @@
+.footer-ul__link {
+  text-decoration: none;
+  color: white;
+}
+
+.footer-ul__link:hover {
+  color: #DADADA;
+}

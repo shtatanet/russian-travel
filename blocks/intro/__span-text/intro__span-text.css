@@ -1,9 +1,8 @@
-.intro__list_text {
+.intro__span-text {
     margin: 0 auto;
     font-size: 12px;
     line-height: 18px;
     font-style: normal;
     font-weight: 400;
+    font-weight: bold;
 }
-
-

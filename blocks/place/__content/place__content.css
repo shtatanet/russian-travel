@@ -1,4 +1,7 @@
-.place__content.css {
-    width: 100%;
+.place__content {
+    display: flex;
     grid-area: image;
+    width: 100%;
 }
+
+
