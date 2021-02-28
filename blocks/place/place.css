@@ -8,12 +8,11 @@
     grid-template-areas:
     "title website"
     "image paragraph";
-    
 }    
 
 @media screen and (max-width: 1279px) {
     .place {
-       gap: 48px 32px;
+      gap: 48px 32px;
     }
 }
 
@@ -21,15 +20,13 @@
 @media screen and (max-width: 1023px) {
     .place {
       grid-gap: 48px 28px;
-      min-width: 720px;
     }
 }
   
 @media screen and (max-width: 767px) {
     .place {
-        display: flex;
-        flex-direction: column;
-        min-width: 320px;
+      display: flex;
+      flex-direction: column;
     }
 }
 
