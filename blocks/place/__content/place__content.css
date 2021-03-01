@@ -6,8 +6,7 @@
 
 @media screen and (max-width: 767px) {
   .place__content {
-    width: calc(100% + 2*16px);
-    margin-left: -16px;
+    width: 100%;
   }
 }    
 

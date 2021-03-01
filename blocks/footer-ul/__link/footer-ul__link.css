@@ -7,6 +7,14 @@
 }
 
 .footer-ul__link:hover {
-  color: #DADADA;
+  opacity: 0.8;
 }
+
+@media screen and (max-width: 767px) {
+  .footer-ul__link {
+    font-size: 24px;
+    line-height: 24px;
+    margin-top: 0;
+  }
+}    
 

@@ -12,6 +12,6 @@
    .footer-ul {
       grid-template-columns: none;
       grid-template-rows: repeat(5,max-content);
-      gap: 32px;
+      gap: 0;
    }
 }
